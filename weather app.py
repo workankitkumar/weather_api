@@ -1,6 +1,6 @@
 import requests
 
-api_key = '97bc886f40452c9c536e72684e33ac46'
+api_key = '.....'
 
 def f_to_c(f):
     return round((f - 32) * 5/9)
